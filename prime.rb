@@ -1,3 +1,6 @@
+require 'prime'
+
+
 def prime? (number)
-  prime.is_a?(prime)
+  number.prime?
 end
